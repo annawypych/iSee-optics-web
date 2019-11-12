@@ -1,0 +1,16 @@
+{
+  "name": "iSee_optics_web"
+  "version": "1.0.0"
+
+  "frameworks": {
+    "netcoreapp2.1": {}
+  }
+
+  "dependencies": {
+    "Microsoft.AspNetCore.App": "2.1.0"
+    "Microsoft.AspNetCore.Razor.Design": {
+      "version":"2.1.2",
+      "type":"build"
+    }
+  }
+}
