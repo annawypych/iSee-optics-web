@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSee-optics-web", "iSee-optics-web\iSee-optics-web.csproj", "{F9C5E1B5-209B-4A6D-8D82-52B8DEAC44E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSee-optics-web", "iSee-optics-web\iSee-optics-web.csproj", "{A56B428C-E311-40D1-A597-410ECBA4E8DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9C5E1B5-209B-4A6D-8D82-52B8DEAC44E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9C5E1B5-209B-4A6D-8D82-52B8DEAC44E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9C5E1B5-209B-4A6D-8D82-52B8DEAC44E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9C5E1B5-209B-4A6D-8D82-52B8DEAC44E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56B428C-E311-40D1-A597-410ECBA4E8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56B428C-E311-40D1-A597-410ECBA4E8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56B428C-E311-40D1-A597-410ECBA4E8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56B428C-E311-40D1-A597-410ECBA4E8DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3825FD6B-1552-491B-8262-0F9DE551F4D7}
+		SolutionGuid = {6A75C2AA-7BCB-4DBC-B38D-766B0226173B}
 	EndGlobalSection
 EndGlobal
